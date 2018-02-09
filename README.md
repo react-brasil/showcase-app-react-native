@@ -1,4 +1,4 @@
-# Showcase de Aplicativos
+# Showcase de Aplicativos React Native
 
 > OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/react-brasil/showcase-app/blob/master/CONTRIBUTING.md)
 
