@@ -5,8 +5,9 @@
 Nome | Google Play | Apple Store
 ------------ | ------- | ------------
 Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brandlovers.app) | [iOS](https://itunes.apple.com/us/app/brand-lovers-descubra-seu/id1094374278)
-Welearn | [Android](https://play.google.com/store/apps/details?id=co.welearnit.app) | 
-
+Onde está meu trio? | [Android](https://play.google.com/store/apps/details?id=com.ibahia.carnaval24h) |
+(iOS)[https://itunes.apple.com/br/app/onde-esta-meu-trio/id594923404?mt=8]
+Welearn | [Android](https://play.google.com/store/apps/details?id=co.welearnit.app) |
 
 ## Licença
 
