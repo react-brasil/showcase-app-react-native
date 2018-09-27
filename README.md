@@ -5,6 +5,9 @@
 Nome | Google Play | Apple Store
 ------------ | ------- | ------------
 Alerta ABC | [Android](https://play.google.com/store/apps/details?id=com.alertaabc&hl=en_US) | [IOS](https://itunes.apple.com/us/app/alerta-abc/id1342188911?mt=8)
+Algar CRM | [Android](https://play.google.com/store/apps/details?id=com.algarcrmapp) | [iOS](https://itunes.apple.com/br/app/algar-crm/id1357141021)
+Algar SOM | [Android](https://play.google.com/store/apps/details?id=algar.telecom.algarsom)
+Algar Telecom | [Android](https://play.google.com/store/apps/details?id=algar.telecom.meusservicos) | [iOS](https://itunes.apple.com/br/app/algar-telecom/id997446874)
 Área do Condômino | [Android](https://play.google.com/store/apps/details?id=com.condor.superlogica) | [iOS](https://itunes.apple.com/br/app/condominio-area-do-condomino/id1160849001)
 Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brandlovers.app) | [iOS](https://itunes.apple.com/us/app/brand-lovers-descubra-seu/id1094374278)
 Eduzz | [Android](https://play.google.com/store/apps/details?id=com.eduzzmobile.mobile) | [iOS](https://itunes.apple.com/br/app/eduzz-negócios-digitais/id1079845439?mt=8)
