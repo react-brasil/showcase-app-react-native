@@ -22,7 +22,7 @@ Welearn | [Android](https://play.google.com/store/apps/details?id=co.welearnit.a
 Wiz.me | [Android](https://play.google.com/store/apps/details?id=br.com.wizard.wizme&hl=pt_BR) | [iOS](https://itunes.apple.com/us/app/wiz-me/id1337784241?mt=8)
 ## Licença
 
-[MIT]
+[MIT](https://github.com/react-brasil/showcase-app-react-native/blob/master/LICENSE)
 
 ## Slack
 http://react-brasil-slack.herokuapp.com/
