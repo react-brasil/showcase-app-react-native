@@ -4,6 +4,7 @@
 
 Nome | Google Play | Apple Store
 ------------ | ------- | ------------
+Alerta ABC | [Android](https://play.google.com/store/apps/details?id=com.alertaabc&hl=en_US) | [IOS](https://itunes.apple.com/us/app/alerta-abc/id1342188911?mt=8)
 Área do Condômino | [Android](https://play.google.com/store/apps/details?id=com.condor.superlogica) | [iOS](https://itunes.apple.com/br/app/condominio-area-do-condomino/id1160849001)
 Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brandlovers.app) | [iOS](https://itunes.apple.com/us/app/brand-lovers-descubra-seu/id1094374278)
 Eduzz | [Android](https://play.google.com/store/apps/details?id=com.eduzzmobile.mobile) | [iOS](https://itunes.apple.com/br/app/eduzz-negócios-digitais/id1079845439?mt=8)
@@ -11,6 +12,7 @@ Feedback House | [Android](https://play.google.com/store/apps/details?id=feedbac
 GOL - Passagens Aéreas | [Android](https://play.google.com/store/apps/details?id=br.com.edeploy.gol.checkin.activities) | [iOS](https://itunes.apple.com/br/app/gol-passagens-a%C3%A9reas/id337961662?mt=8)
 iTrainner | [Android](https://play.google.com/store/apps/details?id=com.app2sales.personalfit) | [iOS](https://itunes.apple.com/br/app/id1276408679?mt=8)
 iTrainner Coach | [Android](https://play.google.com/store/apps/details?id=com.app2sales.personalfit.personal) | [iOS](https://itunes.apple.com/br/app/itrainner-personal-encontre-alunos-facilmente/id1276418309?mt=8)
+Jogos Grande ABC | [Android](https://play.google.com/store/apps/details?id=com.jogosdointerior) | [IOS](https://itunes.apple.com/us/app/jogos-grande-abc/id1301568759?l=pt&ls=1&mt=8)
 Loggi | [Android](https://play.google.com/store/apps/details?id=com.loggi.client&hl=pt) | [iOS](https://itunes.apple.com/br/app/loggi-entrega-em-1-toque/id879157764?mt=8)
 Magnetis | | [iOS](https://itunes.apple.com/us/app/magnetis-investimentos/id1318386376)
 Meu Barato | [Android](https://play.google.com/store/apps/details?id=com.burnweb.meubarato) | [iOS](https://itunes.apple.com/us/app/meu-barato/id1050301663?l=pt&ls=1&mt=8)
