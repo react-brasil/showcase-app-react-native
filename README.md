@@ -17,7 +17,7 @@ Onde está meu trio? | [Android](https://play.google.com/store/apps/details?id=c
 Sabedoria em Minutos | [Android](https://play.google.com/store/apps/details?id=com.minutosdesabedoria) | [iOS](https://itunes.apple.com/br/app/sabedoria-em-minutos/id1276853147?mt=8)
 Sanar Residência Médica | [Android](https://play.google.com/store/apps/details?id=br.com.editorasanar.residencia) | [iOS](https://itunes.apple.com/br/app/sanar-residência-médica/id1375384328?l=pt&ls=1&mt=8)
 Welearn | [Android](https://play.google.com/store/apps/details?id=co.welearnit.app) |
-
+Wiz.me | [Android](https://play.google.com/store/apps/details?id=br.com.wizard.wizme&hl=pt_BR) | [iOS](https://itunes.apple.com/us/app/wiz-me/id1337784241?mt=8)
 ## Licença
 
 [MIT]
