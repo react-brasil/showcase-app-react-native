@@ -24,6 +24,7 @@ Nubank (Nuconta) | [Android](https://play.google.com/store/apps/details?id=com.n
 Oba Delivery | [Android](https://play.google.com/store/apps/details?id=com.burnweb.obadelivery) | [iOS](https://itunes.apple.com/us/app/oba-delivery-entrega-de-comida/id1190549101?l=pt&ls=1&mt=8)
 Olhos de Águia | [Android](https://play.google.com/store/apps/details?id=com.olhos) | [iOS](https://itunes.apple.com/br/app/olhos-de-águia/id1258595541?mt=8)
 Onde está meu trio? | [Android](https://play.google.com/store/apps/details?id=com.ibahia.carnaval24h) | [iOS](https://itunes.apple.com/br/app/onde-esta-meu-trio/id594923404?mt=8)
+Rung | [Android](https://play.google.com/store/apps/details?id=br.com.rung) | 
 Sabedoria em Minutos | [Android](https://play.google.com/store/apps/details?id=com.minutosdesabedoria) | [iOS](https://itunes.apple.com/br/app/sabedoria-em-minutos/id1276853147?mt=8)
 Sanar Residência Médica | [Android](https://play.google.com/store/apps/details?id=br.com.editorasanar.residencia) | [iOS](https://itunes.apple.com/br/app/sanar-residência-médica/id1375384328?l=pt&ls=1&mt=8)
 Welearn | [Android](https://play.google.com/store/apps/details?id=co.welearnit.app) |
