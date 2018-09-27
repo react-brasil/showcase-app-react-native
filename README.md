@@ -6,8 +6,8 @@ Nome | Google Play | Apple Store
 ------------ | ------- | ------------
 Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brandlovers.app) | [iOS](https://itunes.apple.com/us/app/brand-lovers-descubra-seu/id1094374278)
 Eduzz | [Android](https://play.google.com/store/apps/details?id=com.eduzzmobile.mobile) | [iOS](https://itunes.apple.com/br/app/eduzz-negócios-digitais/id1079845439?mt=8)
-iTrainner Coach | [Android](https://play.google.com/store/apps/details?id=com.app2sales.personalfit.personal) | [iOS](https://itunes.apple.com/br/app/itrainner-personal-encontre-alunos-facilmente/id1276418309?mt=8)
 iTrainner | [Android](https://play.google.com/store/apps/details?id=com.app2sales.personalfit) | [iOS](https://itunes.apple.com/br/app/id1276408679?mt=8)
+iTrainner Coach | [Android](https://play.google.com/store/apps/details?id=com.app2sales.personalfit.personal) | [iOS](https://itunes.apple.com/br/app/itrainner-personal-encontre-alunos-facilmente/id1276418309?mt=8)
 Loggi | [Android](https://play.google.com/store/apps/details?id=com.loggi.client&hl=pt) | [iOS](https://itunes.apple.com/br/app/loggi-entrega-em-1-toque/id879157764?mt=8)
 Magnetis | | [iOS](https://itunes.apple.com/us/app/magnetis-investimentos/id1318386376)
 Meu Barato | [Android](https://play.google.com/store/apps/details?id=com.burnweb.meubarato) | [iOS](https://itunes.apple.com/us/app/meu-barato/id1050301663?l=pt&ls=1&mt=8)
