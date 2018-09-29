@@ -13,6 +13,7 @@ Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brand
 Eduzz | [Android](https://play.google.com/store/apps/details?id=com.eduzzmobile.mobile) | [iOS](https://itunes.apple.com/br/app/eduzz-negócios-digitais/id1079845439?mt=8)
 Feedback House | [Android](https://play.google.com/store/apps/details?id=feedback.house.app) | [iOS](https://itunes.apple.com/us/app/feedback-house/id1205642710?mt=8)
 GOL - Passagens Aéreas | [Android](https://play.google.com/store/apps/details?id=br.com.edeploy.gol.checkin.activities) | [iOS](https://itunes.apple.com/br/app/gol-passagens-a%C3%A9reas/id337961662?mt=8)
+iguess | [Android](https://play.google.com/store/apps/details?id=com.br.iguess)
 iTrainner | [Android](https://play.google.com/store/apps/details?id=com.app2sales.personalfit) | [iOS](https://itunes.apple.com/br/app/id1276408679?mt=8)
 iTrainner Coach | [Android](https://play.google.com/store/apps/details?id=com.app2sales.personalfit.personal) | [iOS](https://itunes.apple.com/br/app/itrainner-personal-encontre-alunos-facilmente/id1276418309?mt=8)
 Jogos Grande ABC | [Android](https://play.google.com/store/apps/details?id=com.jogosdointerior) | [IOS](https://itunes.apple.com/us/app/jogos-grande-abc/id1301568759?l=pt&ls=1&mt=8)
