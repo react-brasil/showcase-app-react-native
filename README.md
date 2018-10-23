@@ -9,6 +9,7 @@ Algar CRM | [Android](https://play.google.com/store/apps/details?id=com.algarcrm
 Algar SOM | [Android](https://play.google.com/store/apps/details?id=algar.telecom.algarsom)
 Algar Telecom | [Android](https://play.google.com/store/apps/details?id=algar.telecom.meusservicos) | [iOS](https://itunes.apple.com/br/app/algar-telecom/id997446874)
 Área do Condômino | [Android](https://play.google.com/store/apps/details?id=com.condor.superlogica) | [iOS](https://itunes.apple.com/br/app/condominio-area-do-condomino/id1160849001)
+Backing Tracks | [Android](https://play.google.com/store/apps/details?id=com.backing) | 
 Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brandlovers.app) | [iOS](https://itunes.apple.com/us/app/brand-lovers-descubra-seu/id1094374278)
 Eduzz | [Android](https://play.google.com/store/apps/details?id=com.eduzzmobile.mobile) | [iOS](https://itunes.apple.com/br/app/eduzz-negócios-digitais/id1079845439?mt=8)
 Feedback House | [Android](https://play.google.com/store/apps/details?id=feedback.house.app) | [iOS](https://itunes.apple.com/us/app/feedback-house/id1205642710?mt=8)
