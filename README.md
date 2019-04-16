@@ -12,6 +12,7 @@ Algar Telecom | [Android](https://play.google.com/store/apps/details?id=algar.te
 Backing Tracks | [Android](https://play.google.com/store/apps/details?id=com.backing) | 
 Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brandlovers.app) | [iOS](https://itunes.apple.com/us/app/brand-lovers-descubra-seu/id1094374278)
 Concept App | [Android](https://play.google.com/store/apps/details?id=com.sebrelacionamentomobile) | [iOS](https://itunes.apple.com/br/app/concept-app/id1412185846)
+Diin | [Android](https://play.google.com/store/apps/details?id=com.diinapp&hl=en) | [iOS](https://itunes.apple.com/br/app/diin/id1412115004)
 Eduzz | [Android](https://play.google.com/store/apps/details?id=com.eduzzmobile.mobile) | [iOS](https://itunes.apple.com/br/app/eduzz-negócios-digitais/id1079845439?mt=8)
 Feedback House | [Android](https://play.google.com/store/apps/details?id=feedback.house.app) | [iOS](https://itunes.apple.com/us/app/feedback-house/id1205642710?mt=8)
 GOL - Passagens Aéreas | [Android](https://play.google.com/store/apps/details?id=br.com.edeploy.gol.checkin.activities) | [iOS](https://itunes.apple.com/br/app/gol-passagens-a%C3%A9reas/id337961662?mt=8)
