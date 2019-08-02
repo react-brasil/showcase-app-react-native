@@ -32,6 +32,7 @@ Renda FII | [Android](https://play.google.com/store/apps/details?id=com.takamura
 Rung | [Android](https://play.google.com/store/apps/details?id=br.com.rung) | 
 Sabedoria em Minutos | [Android](https://play.google.com/store/apps/details?id=com.minutosdesabedoria) | [iOS](https://itunes.apple.com/br/app/sabedoria-em-minutos/id1276853147?mt=8)
 Sanar Residência Médica | [Android](https://play.google.com/store/apps/details?id=br.com.editorasanar.residencia) | [iOS](https://itunes.apple.com/br/app/sanar-residência-médica/id1375384328?l=pt&ls=1&mt=8)
+Segware My Security | [Android](https://play.google.com/store/apps/details?id=br.com.segware.mysecurity.views) | [iOS](https://apps.apple.com/us/app/my-security/id861375400?ls=18)
 Venus Lover | [Android](https://play.google.com/store/apps/details?id=com.venuslover) | [iOS](https://itunes.apple.com/us/app/venus-lover/id1394115090)
 Welearn | [Android](https://play.google.com/store/apps/details?id=co.welearnit.app) |
 Wiz.me | [Android](https://play.google.com/store/apps/details?id=br.com.wizard.wizme&hl=pt_BR) | [iOS](https://itunes.apple.com/us/app/wiz-me/id1337784241?mt=8)
