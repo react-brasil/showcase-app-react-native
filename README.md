@@ -22,6 +22,7 @@ iTrainner Coach | [Android](https://play.google.com/store/apps/details?id=com.ap
 Jogos Grande ABC | [Android](https://play.google.com/store/apps/details?id=com.jogosdointerior) | [IOS](https://itunes.apple.com/us/app/jogos-grande-abc/id1301568759?l=pt&ls=1&mt=8)
 Keepfy | [Android](https://play.google.com/store/apps/details?id=com.keepfy) | [IOS](https://apps.apple.com/br/app/keepfy/id1463213513)
 Loggi | [Android](https://play.google.com/store/apps/details?id=com.loggi.client&hl=pt) | [iOS](https://itunes.apple.com/br/app/loggi-entrega-em-1-toque/id879157764?mt=8)
+Leroy Merlin Brasil | [Android](https://play.google.com/store/apps/details?id=br.com.leroymerlin&hl=pt_BR) | [iOS](https://apps.apple.com/br/app/leroy-merlin-brasil/id1470425305)
 Magnetis | | [iOS](https://itunes.apple.com/us/app/magnetis-investimentos/id1318386376)
 Meu Barato | [Android](https://play.google.com/store/apps/details?id=com.burnweb.meubarato) | [iOS](https://itunes.apple.com/us/app/meu-barato/id1050301663?l=pt&ls=1&mt=8)
 Minha Nova Versão | [Android](https://play.google.com/store/apps/details?id=com.app2sales.minhanovaversao) | [iOS](https://itunes.apple.com/br/app/minha-nova-versão/id1322628663?mt=8)
