@@ -11,6 +11,7 @@ Algar Telecom | [Android](https://play.google.com/store/apps/details?id=algar.te
 Área do Condômino | [Android](https://play.google.com/store/apps/details?id=com.condor.superlogica) | [iOS](https://itunes.apple.com/br/app/condominio-area-do-condomino/id1160849001)
 Backing Tracks | [Android](https://play.google.com/store/apps/details?id=com.backing) | 
 Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brandlovers.app) | [iOS](https://itunes.apple.com/us/app/brand-lovers-descubra-seu/id1094374278)
+Claro Notícias | [Android](https://play.google.com/store/apps/details?id=br.com.claronoticias)
 Concept App | [Android](https://play.google.com/store/apps/details?id=com.sebrelacionamentomobile) | [iOS](https://itunes.apple.com/br/app/concept-app/id1412185846)
 Diin | [Android](https://play.google.com/store/apps/details?id=com.diinapp&hl=en) | [iOS](https://itunes.apple.com/br/app/diin/id1412115004)
 Eduzz | [Android](https://play.google.com/store/apps/details?id=com.eduzzmobile.mobile) | [iOS](https://itunes.apple.com/br/app/eduzz-negócios-digitais/id1079845439?mt=8)
