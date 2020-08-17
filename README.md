@@ -26,6 +26,7 @@ Loggi | [Android](https://play.google.com/store/apps/details?id=com.loggi.client
 Leroy Merlin Brasil | [Android](https://play.google.com/store/apps/details?id=br.com.leroymerlin&hl=pt_BR) | [iOS](https://apps.apple.com/br/app/leroy-merlin-brasil/id1470425305)
 Magnetis | | [iOS](https://itunes.apple.com/us/app/magnetis-investimentos/id1318386376)
 Meu Barato | [Android](https://play.google.com/store/apps/details?id=com.burnweb.meubarato) | [iOS](https://itunes.apple.com/us/app/meu-barato/id1050301663?l=pt&ls=1&mt=8)
+Méliuz | [Android](https://play.google.com/store/apps/details?id=br.com.meliuz) | [iOS](https://itunes.apple.com/br/app/m%C3%A9liuz-seu-dinheiro-de-volta/id993672585?mt=8)
 Minha Nova Versão | [Android](https://play.google.com/store/apps/details?id=com.app2sales.minhanovaversao) | [iOS](https://itunes.apple.com/br/app/minha-nova-versão/id1322628663?mt=8)
 Nubank (Nuconta) | [Android](https://play.google.com/store/apps/details?id=com.nu.production) | [iOS](https://itunes.apple.com/br/app/nubank/id814456780?mt=8)
 Oba Delivery | [Android](https://play.google.com/store/apps/details?id=com.burnweb.obadelivery) | [iOS](https://itunes.apple.com/us/app/oba-delivery-entrega-de-comida/id1190549101?l=pt&ls=1&mt=8)
