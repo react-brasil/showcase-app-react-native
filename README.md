@@ -46,4 +46,4 @@ Wiz.me | [Android](https://play.google.com/store/apps/details?id=br.com.wizard.w
 [MIT](https://github.com/react-brasil/showcase-app-react-native/blob/master/LICENSE)
 
 ## Slack
-http://react-brasil-slack.herokuapp.com/
+https://react.now.sh [+10k membros]
