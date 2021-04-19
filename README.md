@@ -9,7 +9,8 @@ Algar CRM | [Android](https://play.google.com/store/apps/details?id=com.algarcrm
 Algar SOM | [Android](https://play.google.com/store/apps/details?id=algar.telecom.algarsom)
 Algar Telecom | [Android](https://play.google.com/store/apps/details?id=algar.telecom.meusservicos) | [iOS](https://itunes.apple.com/br/app/algar-telecom/id997446874)
 Área do Condômino | [Android](https://play.google.com/store/apps/details?id=com.condor.superlogica) | [iOS](https://itunes.apple.com/br/app/condominio-area-do-condomino/id1160849001)
-Backing Tracks | [Android](https://play.google.com/store/apps/details?id=com.backing) | 
+Backing Tracks | [Android](https://play.google.com/store/apps/details?id=com.backing) |
+Bloxs Investimentos | [Android](https://play.google.com/store/apps/details?id=br.com.bloxs) | [iOS](https://apps.apple.com/br/app/bloxs-investimentos/id1551665255)
 Brand Lovers | [Android](https://play.google.com/store/apps/details?id=com.brandlovers.app) | [iOS](https://itunes.apple.com/us/app/brand-lovers-descubra-seu/id1094374278)
 Claro Notícias | [Android](https://play.google.com/store/apps/details?id=br.com.claronoticias)
 Concept App | [Android](https://play.google.com/store/apps/details?id=com.sebrelacionamentomobile) | [iOS](https://itunes.apple.com/br/app/concept-app/id1412185846)
@@ -33,7 +34,7 @@ Oba Delivery | [Android](https://play.google.com/store/apps/details?id=com.burnw
 Olhos de Águia | [Android](https://play.google.com/store/apps/details?id=com.olhos) | [iOS](https://itunes.apple.com/br/app/olhos-de-águia/id1258595541?mt=8)
 Onde está meu trio? | [Android](https://play.google.com/store/apps/details?id=com.ibahia.carnaval24h) | [iOS](https://itunes.apple.com/br/app/onde-esta-meu-trio/id594923404?mt=8)
 Renda FII | [Android](https://play.google.com/store/apps/details?id=com.takamuralabs.meusfiis)
-Rung | [Android](https://play.google.com/store/apps/details?id=br.com.rung) | 
+Rung | [Android](https://play.google.com/store/apps/details?id=br.com.rung) |
 Sabedoria em Minutos | [Android](https://play.google.com/store/apps/details?id=com.minutosdesabedoria) | [iOS](https://itunes.apple.com/br/app/sabedoria-em-minutos/id1276853147?mt=8)
 Sanar Residência Médica | [Android](https://play.google.com/store/apps/details?id=br.com.editorasanar.residencia) | [iOS](https://itunes.apple.com/br/app/sanar-residência-médica/id1375384328?l=pt&ls=1&mt=8)
 Segware My Security | [Android](https://play.google.com/store/apps/details?id=br.com.segware.mysecurity.views) | [iOS](https://apps.apple.com/us/app/my-security/id861375400?ls=18)
